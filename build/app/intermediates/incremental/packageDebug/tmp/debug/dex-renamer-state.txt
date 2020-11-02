@@ -1,0 +1,4 @@
+#Sat Oct 31 11:03:46 IST 2020
+base.0=/Users/extagline/Desktop/Android/Flutter/Demo/Demo Project1/rxdart_bloc_dio_demoexample/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
