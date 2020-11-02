@@ -25,7 +25,7 @@ or
 - flutter packages get
 
 # Run Flutter Project:
--If already install simulator and emulator so follow next step 
+- If already install simulator and emulator so follow next step 
     - Install Simulator and Emulator
 - Select Simulator or Emulator then using flutter run command.
 
